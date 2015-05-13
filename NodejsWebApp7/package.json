@@ -1,0 +1,10 @@
+{
+  "name": "NodejsWebApp7",
+  "version": "0.0.0",
+  "description": "NodejsWebApp7",
+  "main": "server.js",
+  "author": {
+    "name": "Kavitha",
+    "email": ""
+  }
+}
